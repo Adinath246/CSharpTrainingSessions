@@ -1,0 +1,12 @@
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/bin/Debug/net6.0/ValidationFramework.deps.json
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/bin/Debug/net6.0/ValidationFramework.dll
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/bin/Debug/net6.0/ValidationFramework.pdb
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ValidationFramework.csproj.AssemblyReference.cache
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ValidationFramework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ValidationFramework.AssemblyInfoInputs.cache
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ValidationFramework.AssemblyInfo.cs
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ValidationFramework.csproj.CoreCompileInputs.cache
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ValidationFramework.dll
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/refint/ValidationFramework.dll
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ValidationFramework.pdb
+/Users/adinathbajpai/Projects/ValidationFramework/ValidationFramework/obj/Debug/net6.0/ref/ValidationFramework.dll
