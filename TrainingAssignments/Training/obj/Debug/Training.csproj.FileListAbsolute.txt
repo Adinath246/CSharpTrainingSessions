@@ -1,0 +1,6 @@
+/Users/adinathbajpai/Projects/Training/Training/obj/Debug/Training.csproj.AssemblyReference.cache
+/Users/adinathbajpai/Projects/Training/Training/obj/Debug/Training.csproj.CoreCompileInputs.cache
+/Users/adinathbajpai/Projects/Training/Training/bin/Debug/Training.exe
+/Users/adinathbajpai/Projects/Training/Training/bin/Debug/Training.pdb
+/Users/adinathbajpai/Projects/Training/Training/obj/Debug/Training.exe
+/Users/adinathbajpai/Projects/Training/Training/obj/Debug/Training.pdb

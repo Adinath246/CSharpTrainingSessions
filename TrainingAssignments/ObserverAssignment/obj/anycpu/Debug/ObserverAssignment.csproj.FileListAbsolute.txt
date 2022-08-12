@@ -1,0 +1,6 @@
+/Users/adinathbajpai/Projects/Training/ObserverAssignment/bin/Debug/ObserverAssignment.exe
+/Users/adinathbajpai/Projects/Training/ObserverAssignment/bin/Debug/ObserverAssignment.pdb
+/Users/adinathbajpai/Projects/Training/ObserverAssignment/obj/anycpu/Debug/ObserverAssignment.csproj.CoreCompileInputs.cache
+/Users/adinathbajpai/Projects/Training/ObserverAssignment/obj/anycpu/Debug/ObserverAssignment.exe
+/Users/adinathbajpai/Projects/Training/ObserverAssignment/obj/anycpu/Debug/ObserverAssignment.pdb
+/Users/adinathbajpai/Projects/Training/ObserverAssignment/obj/anycpu/Debug/ObserverAssignment.csproj.AssemblyReference.cache
