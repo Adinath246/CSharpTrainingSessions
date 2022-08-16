@@ -1,6 +1,0 @@
-/Users/adinathbajpai/Projects/Training/VitalManagementUsingObserver/bin/Debug/VitalManagementUsingObserver.exe
-/Users/adinathbajpai/Projects/Training/VitalManagementUsingObserver/bin/Debug/VitalManagementUsingObserver.pdb
-/Users/adinathbajpai/Projects/Training/VitalManagementUsingObserver/obj/anycpu/Debug/HeartRateVitalManagementUsingObserver.csproj.AssemblyReference.cache
-/Users/adinathbajpai/Projects/Training/VitalManagementUsingObserver/obj/anycpu/Debug/HeartRateVitalManagementUsingObserver.csproj.CoreCompileInputs.cache
-/Users/adinathbajpai/Projects/Training/VitalManagementUsingObserver/obj/anycpu/Debug/VitalManagementUsingObserver.exe
-/Users/adinathbajpai/Projects/Training/VitalManagementUsingObserver/obj/anycpu/Debug/VitalManagementUsingObserver.pdb
