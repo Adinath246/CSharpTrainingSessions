@@ -1,6 +1,0 @@
-/Users/adinathbajpai/Projects/Training/Breakfast/bin/Debug/Breakfast.exe
-/Users/adinathbajpai/Projects/Training/Breakfast/bin/Debug/Breakfast.pdb
-/Users/adinathbajpai/Projects/Training/Breakfast/obj/anycpu/Debug/Breakfast.csproj.AssemblyReference.cache
-/Users/adinathbajpai/Projects/Training/Breakfast/obj/anycpu/Debug/Breakfast.csproj.CoreCompileInputs.cache
-/Users/adinathbajpai/Projects/Training/Breakfast/obj/anycpu/Debug/Breakfast.exe
-/Users/adinathbajpai/Projects/Training/Breakfast/obj/anycpu/Debug/Breakfast.pdb
