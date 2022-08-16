@@ -1,5 +1,0 @@
-/Users/adinathbajpai/Projects/Training/AdvancedObserver/bin/Debug/AdvancedObserver.exe
-/Users/adinathbajpai/Projects/Training/AdvancedObserver/bin/Debug/AdvancedObserver.pdb
-/Users/adinathbajpai/Projects/Training/AdvancedObserver/obj/anycpu/Debug/AdvancedObserver.csproj.CoreCompileInputs.cache
-/Users/adinathbajpai/Projects/Training/AdvancedObserver/obj/anycpu/Debug/AdvancedObserver.exe
-/Users/adinathbajpai/Projects/Training/AdvancedObserver/obj/anycpu/Debug/AdvancedObserver.pdb
